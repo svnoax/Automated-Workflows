@@ -1,0 +1,261 @@
+{
+  "database": "D:\\agh\\Automated_Workflows\\Labs\\Lab03\\state\\catalogue.sqlite",
+  "attempts": [
+    {
+      "attempt_id": "attempt-e642b0be-cde1-4428-9a43-b2b9253ac919",
+      "run_id": "lab03-f55fe924-a9d2-48de-9f16-9590d7f47479",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "red",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "succeeded",
+      "stage": "complete",
+      "network_bytes": 2097153,
+      "http_status": 206,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "started_at": "2026-10-25T15:58:36.593758Z"
+    },
+    {
+      "attempt_id": "attempt-09cb4c91-7b7a-4fa0-a2fb-cbf0b4efcbdb",
+      "run_id": "lab03-f55fe924-a9d2-48de-9f16-9590d7f47479",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "nir",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "succeeded",
+      "stage": "complete",
+      "network_bytes": 2097153,
+      "http_status": 206,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "started_at": "2026-10-25T15:58:41.978638Z"
+    },
+    {
+      "attempt_id": "attempt-8149c5df-3084-4407-b718-c0e54fcffe0a",
+      "run_id": "lab03-acd93944-c567-4271-a880-a5cd4534e81f",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "red",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "started_at": "2026-10-25T15:59:06.180371Z"
+    },
+    {
+      "attempt_id": "attempt-5ef82e23-9fd6-43b5-89fd-e501818ffe60",
+      "run_id": "lab03-acd93944-c567-4271-a880-a5cd4534e81f",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "nir",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "started_at": "2026-10-25T15:59:06.219378Z"
+    },
+    {
+      "attempt_id": "attempt-2d5362ae-6423-40f6-9f4d-c14acab133fa",
+      "run_id": "lab03-fd745074-57fb-4ca2-abda-99ac5a4f4ef9",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "red",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "started_at": "2026-10-25T18:21:01.188804Z"
+    },
+    {
+      "attempt_id": "attempt-3c4d9008-87ec-4d28-a491-8f6e90e9383a",
+      "run_id": "lab03-fd745074-57fb-4ca2-abda-99ac5a4f4ef9",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "nir",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "started_at": "2026-10-25T18:21:01.305304Z"
+    },
+    {
+      "attempt_id": "attempt-ffd876cf-3ada-4f19-ae51-8ae504b4bd0a",
+      "run_id": "lab03-c2bf4548-3344-433b-9460-8da667195022",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "red",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "started_at": "2026-10-25T18:21:31.406764Z"
+    },
+    {
+      "attempt_id": "attempt-60c5ba2f-becd-4f0b-bc7c-0c87a4fee43f",
+      "run_id": "lab03-c2bf4548-3344-433b-9460-8da667195022",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "nir",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "started_at": "2026-10-25T18:21:31.449790Z"
+    },
+    {
+      "attempt_id": "attempt-f1ffc933-5e21-45f7-85e0-51eeff923350",
+      "run_id": "lab03-4e2e99d5-11f7-4790-be2a-39e43c8bf600",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "red",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "started_at": "2026-10-30T12:06:31.650563Z"
+    },
+    {
+      "attempt_id": "attempt-940c2704-accf-479f-998b-7d47c68c8a01",
+      "run_id": "lab03-4e2e99d5-11f7-4790-be2a-39e43c8bf600",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "nir",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "started_at": "2026-10-30T12:06:31.717649Z"
+    },
+    {
+      "attempt_id": "attempt-ddf37ce7-0312-4c6d-a18b-014e1fc95c13",
+      "run_id": "lab03-ec02ead2-d15e-497d-8f86-24e5b3316b69",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "red",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "started_at": "2026-10-30T12:06:38.756498Z"
+    },
+    {
+      "attempt_id": "attempt-530f323b-41e7-48c0-8d61-7d188a405d3d",
+      "run_id": "lab03-ec02ead2-d15e-497d-8f86-24e5b3316b69",
+      "item_id": "S2C_34UDA_20250605_0_L2A",
+      "asset_key": "nir",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "reused",
+      "stage": "cache_verify",
+      "network_bytes": 0,
+      "http_status": null,
+      "error_code": null,
+      "error_message": null,
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "started_at": "2026-10-30T12:06:38.796262Z"
+    }
+  ],
+  "subsets": [
+    {
+      "subset_id": "5462fd6b1d071487ebf4f9872da69c339ad7568e2b9bd923d7e7ad1e40fb2e2b",
+      "asset_id": "d200bd3f0222f2ffeb3048b0ecf35731181a9b5eca9c66f280d9af95bfbad5a2",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "ready",
+      "latest_artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1"
+    },
+    {
+      "subset_id": "f66f860d150ad4f0a41201bad30d12ab8f99fee60a4d3d25810569c6d44c6f0e",
+      "asset_id": "a2d220b3d0db776bd878281b88dd3d085be4ddc78042674be044110f202bdff8",
+      "aoi_key": "48e7066dc2510b10454cbc305c90ecb47f71c0966d733d6ab4ec2630c8745724",
+      "status": "ready",
+      "latest_artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb"
+    }
+  ],
+  "locations": [
+    {
+      "location_id": "91b0db4b67e5803608913946a3cb2fb7e0e9474b0016f03b406b9e2dd2365384",
+      "artifact_id": "59d7497b6d0acac9cc3d487175e8d2cbd5d8612fbd1a58b9e37d8eb83d7c06e1",
+      "local_path": "D:\\agh\\Automated_Workflows\\Labs\\Lab03\\data\\S2C_34UDA_20250605_0_L2A\\48e7066dc251\\red-59d7497b6d0acac9.tif",
+      "status": "available",
+      "checked_at": "2026-10-30T12:06:38.787267Z"
+    },
+    {
+      "location_id": "844efdefdd1e35274925cb06bb180df4cd3ed45d21cf2614db696c4d36b3c678",
+      "artifact_id": "fca9fc0ea7e68ceff3015929352513dbcdd0d9a9d9e5d75cb90ca393bc502adb",
+      "local_path": "D:\\agh\\Automated_Workflows\\Labs\\Lab03\\data\\S2C_34UDA_20250605_0_L2A\\48e7066dc251\\nir-fca9fc0ea7e68cef.tif",
+      "status": "available",
+      "checked_at": "2026-10-30T12:06:38.804186Z"
+    }
+  ],
+  "runs": [
+    {
+      "run_id": "lab03-f55fe924-a9d2-48de-9f16-9590d7f47479",
+      "command": "acquire",
+      "status": "succeeded",
+      "error": null,
+      "started_at": "2026-10-25T15:58:36.561328Z"
+    },
+    {
+      "run_id": "lab03-acd93944-c567-4271-a880-a5cd4534e81f",
+      "command": "acquire",
+      "status": "succeeded",
+      "error": null,
+      "started_at": "2026-10-25T15:59:06.154597Z"
+    },
+    {
+      "run_id": "lab03-fd745074-57fb-4ca2-abda-99ac5a4f4ef9",
+      "command": "acquire",
+      "status": "succeeded",
+      "error": null,
+      "started_at": "2026-10-25T18:21:01.152012Z"
+    },
+    {
+      "run_id": "lab03-c2bf4548-3344-433b-9460-8da667195022",
+      "command": "acquire",
+      "status": "succeeded",
+      "error": null,
+      "started_at": "2026-10-25T18:21:31.390553Z"
+    },
+    {
+      "run_id": "lab03-4e2e99d5-11f7-4790-be2a-39e43c8bf600",
+      "command": "acquire",
+      "status": "succeeded",
+      "error": null,
+      "started_at": "2026-10-30T12:06:31.625069Z"
+    },
+    {
+      "run_id": "lab03-ec02ead2-d15e-497d-8f86-24e5b3316b69",
+      "command": "acquire",
+      "status": "succeeded",
+      "error": null,
+      "started_at": "2026-10-30T12:06:38.729408Z"
+    }
+  ]
+}
